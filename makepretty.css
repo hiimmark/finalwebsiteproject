@@ -1,0 +1,21 @@
+h1{
+    color:#68D867 ;
+}
+p{
+    color: #EE4B2B;
+}
+.cars{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#68D867 ;
+}
+
+.cars2{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#D0E487 ;
+}
+
+body{
+    background-color:#5C2C53;
+}
